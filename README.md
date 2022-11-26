@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shruti Sharma.
 
 - 🔭 Currently working on Machine learning, NLP and Data Analysis projects.
 - 🌱 Learning AWS.
